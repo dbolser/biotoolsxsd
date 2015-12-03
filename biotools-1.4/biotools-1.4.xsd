@@ -131,7 +131,7 @@
 	</xs:element>
 	<xs:complexType name="Interface">
 		<xs:annotation>
-			<xs:documentation>Details of an iinterface to a resource</xs:documentation>
+			<xs:documentation>Details of an interface to a resource</xs:documentation>
 		</xs:annotation>
 		<xs:all>
 			<xs:element name="interfaceType">
